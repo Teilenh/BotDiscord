@@ -26,6 +26,6 @@ class Doc_hudson(commands.Bot):
 intents = discord.Intents.all()
 bot = Doc_hudson(command_prefix='_', intents=intents)
 
-# keep_alive()
+keep_alive()
 
 bot.run(token=Token)
