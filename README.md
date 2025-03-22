@@ -1,0 +1,2 @@
+# BotDiscord
+Personal discordpy bot
